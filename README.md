@@ -22,9 +22,9 @@ The project includes a Shiny app that provides a comprehensive data analysis and
    In RStudio or your R console, set the working directory to the project folder:
    ```R
    setwd("path/to/your/project/folder")
-
-```
-   ## Requirements
+   ```
+   
+## Requirements
 
 To run this project, you need to install the following R libraries. You can install them by running the following code in your R console:
 
