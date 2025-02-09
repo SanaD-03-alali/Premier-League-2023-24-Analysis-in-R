@@ -22,3 +22,26 @@ The project includes a Shiny app that provides a comprehensive data analysis and
    In RStudio or your R console, set the working directory to the project folder:
    ```R
    setwd("path/to/your/project/folder")
+
+   ## Requirements
+
+To run this project, you need to install the following R libraries. You can install them by running the following code in your R console:
+
+```R
+# Install required libraries
+install.packages(c(
+  "shiny",
+  "ggplot2",
+  "dplyr",
+  "ggrepel",
+  "treemapify",
+  "RColorBrewer",
+  "tidyr",
+  "leaflet",
+  "htmlwidgets",
+  "webshot2",
+  "zoo",
+  "scales",
+  "leaflet.providers"
+))
+
