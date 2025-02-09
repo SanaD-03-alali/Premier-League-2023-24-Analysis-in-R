@@ -23,6 +23,7 @@ The project includes a Shiny app that provides a comprehensive data analysis and
    ```R
    setwd("path/to/your/project/folder")
 
+``
    ## Requirements
 
 To run this project, you need to install the following R libraries. You can install them by running the following code in your R console:
@@ -44,4 +45,4 @@ install.packages(c(
   "scales",
   "leaflet.providers"
 ))
-
+```
